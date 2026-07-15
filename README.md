@@ -1,1 +1,1 @@
-# Mini Labs – Administration Systèmes & Réseau
+# SysNet Practice Labs
